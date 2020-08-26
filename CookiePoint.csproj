@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Miyabi.Asset.Client" Version="2.1.0" />
+        <PackageReference Include="Miyabi.Asset.Models" Version="2.1.0" />
+        <PackageReference Include="Miyabi.CliSdk" Version="2.1.0" />
+        <PackageReference Include="Miyabi.Cryptography.Secp256k1" Version="2.1.0" />
+        <PackageReference Include="Miyabi.Hash.BouncyCastle" Version="2.1.0" />
+    </ItemGroup>
+
+</Project>

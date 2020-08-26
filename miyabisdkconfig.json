@@ -1,0 +1,25 @@
+{
+    "consensusMembers": [
+        "026beca06739461a20249fd4b24cf27542013624d18710bc418e8de10d6ef68568"
+    ],
+    "extensions": [
+        {
+            "name": "Miyabi.BLS"
+        },
+        {
+            "name": "Miyabi.Binary"
+        },
+        {
+            "name": "Miyabi.Asset"
+        },
+        {
+            "name": "Miyabi.Entity"
+        },
+        {
+            "name": "Miyabi.Contract"
+        }
+    ],
+    "hosts": [
+        "https://127.0.0.1:9010"
+    ]
+}
