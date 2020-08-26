@@ -2,14 +2,13 @@
 
 Sample demo project showing how to create a cryptocurrency wallet using miyabi Asset table.
 
-The tutorial for this project can be found there :
-https://medium.com/bitflyer-blockchain/how-to-build-simple-net-apps-using-miyabi-blockchain-part-1-bc686e01ab76
+The tutorial for this project can be found [there](https://medium.com/bitflyer-blockchain/how-to-build-simple-net-apps-using-miyabi-blockchain-part-1-bc686e01ab76)
 
 Please visit the [website](https://blockchain.bitflyer.com/miyabi/) for more information about miyabi or to request a demo.
 
-Playground environment to try miyabi [there] (https://blockchain.bitflyer.com/miyabi/playground_agreement.html)
+Playground environment to try miyabi [there](https://blockchain.bitflyer.com/miyabi/playground_agreement.html)
 
-Documentation for miyabi [there] (https://blockchain.bitflyer.com/miyabi/manual/en/)
+Documentation for miyabi [there](https://blockchain.bitflyer.com/miyabi/manual/en/)
 
 ### Requirements
 - miyabi v2.1.0 (SDK)
